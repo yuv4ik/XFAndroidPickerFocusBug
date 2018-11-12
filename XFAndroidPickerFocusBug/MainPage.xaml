@@ -6,7 +6,6 @@
     x:Class="XFAndroidPickerFocusBug.MainPage">
     <StackLayout Orientation="Vertical">
         <Picker
-            Grid.Row="0"
             Title="Tap me once and then the hardware volume buttons">
             <Picker.Items>
                 <x:String>a</x:String>
