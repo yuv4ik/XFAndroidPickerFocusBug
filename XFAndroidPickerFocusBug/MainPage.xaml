@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:XFAndroidPickerFocusBug"
+    x:Class="XFAndroidPickerFocusBug.MainPage">
+    <StackLayout Orientation="Vertical">
+        <Picker
+            Grid.Row="0"
+            Title="Tap me once and then the hardware volume buttons">
+            <Picker.Items>
+                <x:String>a</x:String>
+            </Picker.Items>
+        </Picker>
+        <Button Text="Another dummy control on the page" />
+    </StackLayout>
+</ContentPage>

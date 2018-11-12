@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFAndroidPickerFocusBug.Android", "XFAndroidPickerFocusBug.Android\XFAndroidPickerFocusBug.Android.csproj", "{7CB723F3-F78E-4229-B487-483414238A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFAndroidPickerFocusBug", "XFAndroidPickerFocusBug\XFAndroidPickerFocusBug.csproj", "{5C24A979-5EAE-47FB-931A-FF5A5EEBA4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB723F3-F78E-4229-B487-483414238A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB723F3-F78E-4229-B487-483414238A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB723F3-F78E-4229-B487-483414238A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB723F3-F78E-4229-B487-483414238A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C24A979-5EAE-47FB-931A-FF5A5EEBA4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C24A979-5EAE-47FB-931A-FF5A5EEBA4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C24A979-5EAE-47FB-931A-FF5A5EEBA4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C24A979-5EAE-47FB-931A-FF5A5EEBA4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
